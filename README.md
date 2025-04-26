@@ -1,6 +1,3 @@
-# Glitcherion Provacy Policy
-Política de Privacidad de Glitcherion Bot
-
 # Política de Privacidad de Glitcherion Bot 🚀
 
 Bienvenido/a a Glitcherion, asistente de viaje cósmico.
