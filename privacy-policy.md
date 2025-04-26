@@ -1,3 +1,33 @@
+# Glitcherion Bot Privacy Policy 🚀
+## 1. Data Collected
+Glitcherion does not collect sensitive personal data. It only accesses your public Telegram user ID to respond to your messages and commands.
+
+## 2. Use of Information
+The minimal information processed is exclusively used to:
+- Execute commands requested by the user.
+- Search and send results for flights, accommodations, or volunteer opportunities.
+- Improve the cosmic navigation experience.
+
+## 3. Data Storage
+Currently, Glitcherion does not store data in external databases. All interactions happen in real-time and disappear once the session ends.
+
+## 4. Data Sharing
+We do not share or sell your information to third parties. We are guardians of your galactic autonomy.
+
+## 5. Security
+Glitcherion operates under secure and ethical protocols to protect your privacy.
+
+## 6. Changes to This Policy
+We may update this Privacy Policy in the future to enhance transparency.
+
+## 7. Contact
+For privacy inquiries, you can reach us through nyxa.solara.dev@gmail.com
+
+
+---
+
+
+
 # Política de Privacidad de Glitcherion Bot
 
 Bienvenido/a a Glitcherion, asistente de viaje cósmico.
