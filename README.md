@@ -25,6 +25,10 @@ For privacy inquiries, you can reach us through nyxa.solara.dev@gmail.com
 
 
 ---
+
+
+
+
 # Política de Privacidad de Glitcherion Bot 🚀
 
 Bienvenido/a a Glitcherion, asistente de viaje cósmico.
